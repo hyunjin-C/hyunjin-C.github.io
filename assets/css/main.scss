@@ -17,3 +17,27 @@
 @use "blog";
 @use "post";
 @use "not_found";
+
+.pub-entry {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.pub-thumb {
+  width: 200px;
+  height: auto;
+  margin-right: 15px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.pub-content h3 {
+  margin: 0 0 5px;
+  font-size: 1.1em;
+}
+
+.pub-content p {
+  margin: 0;
+  font-size: 0.95em;
+  color: #444;
+}
