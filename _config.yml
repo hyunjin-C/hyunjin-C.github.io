@@ -4,8 +4,8 @@
 title: Bay Jekyll Theme
 description: Bay is a minimal Jekyll Theme.
 baseurl: ""
-url: "https://hyunjin-C.github.io"
-og_image: /assets/img/profile.jpg
+url: "https://hyunjin-c.github.io"
+og_image: ./assets/img/profile.jpg
 google_analytics: "UA-121636368-3"
 
 header:
