@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile.jpg
+  src: ./assets/img/profile.jpg
   alt: website picture
 ---
 
@@ -33,7 +33,7 @@ profile_picture:
       <img src="./assets/img/gist_logo.png" alt="GIST Logo" style="width:20px; vertical-align:middle; margin-right:5px;">
       <strong>Gwangju Institute of Science and Technology (GIST)</strong>
     </h3>
-    <p style="margin: 0;"><em>Master’s student</em> at Human-Centered Intelligent Systems Lab, AI Convergence</p>
+    <p style="margin: 0;"><em>Master’s student</em> at Human-Centered Intelligent Systems(HCIS) Lab, AI Convergence</p>
     <p style="margin: 0;">Sep 2025 — Present</p>
   </div>
 
@@ -42,7 +42,7 @@ profile_picture:
       <img src="./assets/img/sch_logo.png" alt="SCH Logo" style="width:20px; vertical-align:middle; margin-right:5px;">
       <strong>Soonchunhyang University (SCH)</strong>
     </h3>
-    <p style="margin: 0;"><em>Bachelor of Science (B.S.)</em> in Internet of Things</p>
+    <p style="margin: 0;"><em>Bachelor of Science (B.S.)</em> at Ubiquitous Computing(UBICOMP) Lab in Internet of Things</p>
     <p style="margin: 0;">Mar 2021 — Feb 2025</p>
     <p style="margin: 0;">GPA: 4.4 / 4.5</p>
   </div>
