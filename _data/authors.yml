@@ -2,21 +2,20 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Hyunjin Choi
+  email:             <hyunjinchoi@gm.gist.ac.kr>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Hello!
+    I'm Hyunjin Choi, a master's student at the Human-Centered Intelligent Systems (HCIS) Lab at Gwangju Institute of Science and Technology (GIST).
+    My research Interests are HCI(Human-Computer Interaction), particularly in the area of multisensory feedback, AI-driven Interaction, Embodiment, Haptics, and XR.
+    I aim to explore how these technologies can support more intuitive and expressive user experiences.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            assets/img/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://via.placeholder.com/128x128
@@ -27,9 +26,10 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          <hyunjin-C>
+    email:           <hyunjinchoi@gm.gist.ac.kr>
+    linkedin:        <hyunjinchoi>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
