@@ -14,6 +14,33 @@ redirect_from:
 <!--author-->
 
 ## Selected Publications
+<div class="publication">
+  <img src="/assets/img/piano.png" alt="A Study on Smart Safety Harness using a Magnetic Field Detection Sensor" style="width: 200px; float: left; margin-right: 20px; border-radius: 10px;" />
+  <p><strong>
+  <a href="/assets/img/files/.pdf" target="_blank" style="text-decoration: none; color: inherit;">You don’t Swing at all: Exploring EMS guidance for the structural components of novice jazz swing rhythm
+</a></strong>
+  <br>
+  <span style="background-color: 	#AFEEEE; padding: 2px 6px; border-radius: 6px;">First Author</span>
+  <br>
+  <em><u>Hyunjin Choi</u>, Minwoo Seong, Kangbeen Ko, Minwoo Oh, and Seungjun Kim</em>
+  <br>
+  <em><strong>Current project</strong></em>
+  </p>
+  <div style="clear: both;"></div>
+</div>
+
+<div class="publication">
+  <img src="/assets/img/golf.png" alt="A Study on Smart Safety Harness using a Magnetic Field Detection Sensor" style="width: 200px; float: left; margin-right: 20px; border-radius: 10px;" />
+  <p><strong>
+  <a href="/assets/img/files/.pdf" target="_blank" style="text-decoration: none; color: inherit;">MultiSenseGolf: A Multimodal Wearable Sensor Dataset for Human Pose Estimation and Motion Analysis in Golf Swing
+</a></strong>
+  <br>
+  <em>Minwoo Oh, Minwoo Seong, Kangbeen Ko, Chaeyeon Lim, Gwangbin Kim, <u>Hyunjin Choi</u>, Joseph DelPreto, Daniela Rus, and Seungjun Kim</em>
+  <br>
+  <em><strong>Under review</strong> Scientific Data</em>
+  </p>
+  <div style="clear: both;"></div>
+</div>
 
 <div class="publication">
   <img src="/assets/img/pub_1.png" alt="Particular Matter Estimation at Virtual Station using Air Quality Collection IoT Device" style="width: 200px; float: left; margin-right: 20px; border-radius: 10px;" />
@@ -38,19 +65,6 @@ redirect_from:
   <span style="background-color: 	#AFEEEE; padding: 2px 6px; border-radius: 6px;">First Author</span>
   <br>
   <em><u>Hyunjin Choi</u>, Nahyun Kim, Hyeji Park, and Dongmin Kim</em>
-  <br>
-  <em><strong>KICS 2024</strong> · Proceedings of the Korean Institute of Communications and Information Science</em>
-  </p>
-  <div style="clear: both;"></div>
-</div>
-
-
-<div class="publication">
-  <img src="/assets/img/pub_3.png" alt="A Study on Smart Safety Harness using a Magnetic Field Detection Sensor" style="width: 200px; float: left; margin-right: 20px; border-radius: 10px;" />
-  <p><strong>
-  <a href="/assets/img/files/pub_3.pdf" target="_blank" style="text-decoration: none; color: inherit;">A Study on Smart Safety Harness using a Magnetic Field Detection Sensor</a></strong>
-  <br>
-  <em>Hyeji Park, Nahyun Kim, <u>Hyunjin Choi</u>, and Dongmin Kim</em>
   <br>
   <em><strong>KICS 2024</strong> · Proceedings of the Korean Institute of Communications and Information Science</em>
   </p>

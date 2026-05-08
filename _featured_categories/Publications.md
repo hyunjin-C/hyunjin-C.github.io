@@ -20,9 +20,8 @@ description:
 sitemap: false
 ---
 
-# About
+# Publications
 
-## Publications
 <div class="publication">
   <img src="/assets/img/piano.png" alt="A Study on Smart Safety Harness using a Magnetic Field Detection Sensor" style="width: 200px; float: left; margin-right: 20px; border-radius: 10px;" />
   <p><strong>
