@@ -37,7 +37,7 @@ redirect_from:
   <br>
   <em>Minwoo Oh, Minwoo Seong, Kangbeen Ko, Chaeyeon Lim, Gwangbin Kim, <u>Hyunjin Choi</u>, Joseph DelPreto, Daniela Rus, and Seungjun Kim</em>
   <br>
-  <em><strong>Under review</strong> Scientific Data</em>
+  <em><strong>Scientific Data</strong>Under review</em>
   </p>
   <div style="clear: both;"></div>
 </div>
